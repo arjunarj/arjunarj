@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nagarjunan
-🔭 I'm a Computer Science Student<br>👨‍💻 I code in Python 🐍 and C, Java, JS<br>🤝 I’m open to work on projects within and beyond my knowledge<br>🌱 I’m currently learning Flutter, Reactjs, AI&ML, Blockchain
+🔭 I'm a Computer Science Student<br>👨‍💻 I code in Python 🐍 and C, Java, JS<br>🌱 I’m currently learning Flutter, Reactjs, AI&ML, Blockchain
 
 
 ## 🌐 Socials:
